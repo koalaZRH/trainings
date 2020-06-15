@@ -12,3 +12,5 @@ d4691a8ded5b5f913c33bdf6f8c90f41caf24283 e6c1717b9a80f504b890dd3130febc666467063
 e6c1717b9a80f504b890dd3130febc666467063a 4e80c6b4bed5881b2a4a5e66168bf10ca8ca6d12 Pablo Escodebar <escodebar@gmail.com> 1592237756 +0200	commit (cherry-pick): Accept whiskey as reward
 4e80c6b4bed5881b2a4a5e66168bf10ca8ca6d12 61b15c3bc3152543b29c9069edafe85d5624bbd9 Pablo Escodebar <escodebar@gmail.com> 1592237756 +0200	checkout: moving from pe/cherry_picking to pe/rebasing
 61b15c3bc3152543b29c9069edafe85d5624bbd9 e6c1717b9a80f504b890dd3130febc666467063a Pablo Escodebar <escodebar@gmail.com> 1592237756 +0200	rebase (start): checkout pe/add_list_of_favorite_beers
+e6c1717b9a80f504b890dd3130febc666467063a 4e80c6b4bed5881b2a4a5e66168bf10ca8ca6d12 Pablo Escodebar <escodebar@gmail.com> 1592237756 +0200	commit: Accept whiskey as reward
+4e80c6b4bed5881b2a4a5e66168bf10ca8ca6d12 4e80c6b4bed5881b2a4a5e66168bf10ca8ca6d12 Pablo Escodebar <escodebar@gmail.com> 1592237756 +0200	rebase (finish): returning to refs/heads/pe/rebasing
